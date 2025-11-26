@@ -1,0 +1,1 @@
+create a python program that has a snake game using turtle. The game is to be played using wasd or arrow key controls, add a pause menu and functionality, and show scores on the board, highest score and current score.
