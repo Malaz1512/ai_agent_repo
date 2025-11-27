@@ -1,6 +1,3 @@
-Here's a simple implementation of the snake game using Python's turtle module:
-
-```Python
 import turtle
 import time
 from threading import Thread
@@ -113,5 +110,3 @@ class SnakeGame:
 if __name__ == "__main__":
     game = SnakeGame()
     game.mainloop()
-```
-
